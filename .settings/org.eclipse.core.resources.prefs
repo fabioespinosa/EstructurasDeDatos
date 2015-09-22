@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//source/uniandes/cupi2/estructuras/ArbolAVL.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/ArbolBinarioOrdenado.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/Arco.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/ArrayList.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/Cola.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/GrafoDirigido.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/IArbolOrdenado.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/Nodo.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/NodoAVL.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/NodoArbolBinarioOrdenado.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/NodoCola.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/TablaHashing.java=UTF-8
+encoding//source/uniandes/cupi2/estructuras/Vertice.java=UTF-8
+encoding//test/source/uniandes/cupi2/estructuras/test/GrafoDirigidoTest.java=UTF-8
